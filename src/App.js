@@ -1,6 +1,6 @@
 import React from "react";
 import './App.css';
-import FormularioCadastro from "./Components/Cadastro.jsx"
+import FormularioCadastro from "./Components/Cadastro.js"
 import Container from '@material-ui/core/Container';
 import Typography from '@material-ui/core/Typography';
 
