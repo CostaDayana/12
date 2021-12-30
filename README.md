@@ -1,4 +1,4 @@
-# Projeto Function Components
+# Projeto do curso React: Function Components, da formação React JS da Alura.
 
 ## Uma abordagem moderna
 
